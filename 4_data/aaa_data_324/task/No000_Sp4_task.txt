@@ -1,0 +1,9 @@
+look_number_steps:27824步
+look_walk_time:12分钟
+look_SMS:今早是雨天，记得带外衣.
+look_number_steps:22147步
+look_walk_time:71分钟
+look_SMS:今晚有雷雨，记得带雨伞.
+look_number_steps:25147步
+look_walk_time:20分钟
+look_SMS:今早是雨天，记得带外衣.

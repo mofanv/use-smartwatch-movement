@@ -1,0 +1,6 @@
+look_number_steps:29861步
+look_walk_time:14分钟
+look_SMS:今晚有大风，最好别出门.
+look_number_steps:27537步
+look_walk_time:59分钟
+look_SMS:今天空气差，最好别出门.

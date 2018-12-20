@@ -1,0 +1,3 @@
+look_number_steps:22905步
+look_walk_time:48分钟
+look_SMS:今早是雨天，记得带外衣.

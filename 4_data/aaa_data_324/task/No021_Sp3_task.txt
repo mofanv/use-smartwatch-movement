@@ -1,0 +1,3 @@
+look_number_steps:22103步
+look_walk_time:31分钟
+look_SMS:今早是阴天，记得带雨伞.

@@ -1,0 +1,7 @@
+0begin,1536976680711
+1look_number_steps,1536976703307
+2look_walk_time,1536976713377
+3look_SMS,1536976722058
+4swipe_touch_look_light,1536976732826
+5voice,1536976830900
+6find_title,0

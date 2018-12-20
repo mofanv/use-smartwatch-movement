@@ -1,0 +1,9 @@
+look_number_steps:28218步
+look_walk_time:66分钟
+look_SMS:今天空气差，最好别出门.
+look_number_steps:27345步
+look_walk_time:68分钟
+look_SMS:今晚有雷雨，记得带雨伞.
+look_number_steps:25021步
+look_walk_time:37分钟
+look_SMS:今早是阴天，记得带雨伞.

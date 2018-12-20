@@ -1,0 +1,3 @@
+look_number_steps:27817步
+look_walk_time:14分钟
+look_SMS:今天是晴天，记得少穿点.

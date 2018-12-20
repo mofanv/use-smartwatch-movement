@@ -1,0 +1,3 @@
+look_number_steps:22240步
+look_walk_time:55分钟
+look_SMS:今早是雪天，记得带衣服.

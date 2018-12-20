@@ -1,0 +1,3 @@
+look_number_steps:22856步
+look_walk_time:39分钟
+look_SMS:今天空气差，最好别出门.
